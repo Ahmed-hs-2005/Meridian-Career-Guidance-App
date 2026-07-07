@@ -1,17 +1,115 @@
-# pathforge
+# 🚀 Meridian – AI-Powered Career Navigation App
 
-A new Flutter project.
+## 📖 Overview
 
-## Getting Started
+Meridian is a Flutter-based career guidance application that helps students and aspiring developers choose the right software development career path. The app provides personalized learning roadmaps, recommended skills, projects, and courses while allowing users to track their learning progress.
 
-This project is a starting point for a Flutter application.
+Built using **Flutter**, **Firebase Authentication**, and **Cloud Firestore**, Meridian offers a modern and interactive learning experience for students preparing for careers in technology.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔐 Secure user authentication with Firebase
+- 🎯 Career path selection
+- 🗺️ Personalized learning roadmaps
+- 📚 Skill, project, and course recommendations
+- ✅ Progress tracking
+- 📊 Learning dashboard
+- 👤 User profile management
+- ☁️ Cloud Firestore integration
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Material Design
+
+---
+
+# 📱 Screenshots
+
+## 🔑 Login Screen
+
+Secure login using Firebase Authentication.
+
+![Login Screen](screenshots/login.png)
+
+---
+
+## 📝 Register Screen
+
+Create a new account to start your learning journey.
+
+![Register Screen](screenshots/register.png)
+
+---
+
+## 🎯 Career Selection
+
+Choose your preferred development career path including Flutter, Web Development, AI, SaaS, and E-Commerce.
+
+![Career Selection](screenshots/career_selection.png)
+
+---
+
+## 🗺️ Learning Roadmap
+
+Receive a structured roadmap containing learning phases, required skills, recommended projects, and learning resources.
+
+![Roadmap](screenshots/roadmap.png)
+
+---
+
+## 📊 Progress Dashboard
+
+Track completed skills and monitor your overall learning progress.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 👤 Profile
+
+View your profile information and selected career path.
+
+![Profile](screenshots/profile.png)
+
+---
+
+## 🚀 How It Works
+
+1. Register or log in.
+2. Select your preferred development field.
+3. Receive a personalized learning roadmap.
+4. Complete skills and learning milestones.
+5. Track your overall progress.
+6. Continue learning with recommended resources and projects.
+
+---
+
+## 🔮 Future Improvements
+
+- AI-powered personalized recommendations
+- Achievement badges
+- Dark mode
+- Learning reminders
+- Community discussion forum
+- Advanced analytics
+
+---
+
+## 👨‍💻 Author
+
+**Ahmed Hassan**
+
+BS Computer Science  
+Air University
+
+---
+
+⭐ If you found this project interesting, consider giving it a star.
